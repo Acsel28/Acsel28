@@ -3,7 +3,7 @@
   <a href="https://github.com/Acsel28">
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Advait%20Parab&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%C2%B7%20Computer%20Engineering%20Student&descSize=22&descAlignY=64" width="100%" alt="Advait Parab — AI/ML Engineer" />
   </a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+building+intelligent+systems.;%3E+exploring+computer+vision+%26+LLMs.;%3E+turning+research+into+real+systems." width="100%" alt="Building intelligent systems; exploring computer vision and LLMs; turning research into real systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1200&color=E5EE4E&background=0D1117&center=true&vCenter=true&width=854&height=64&lines=Building+AI%2FML+systems;Exploring+Computer+Vision;Researching+LLM+Security" width="100%" alt="Building AI and ML systems; exploring computer vision; researching LLM security." />
 </p>
 
 <p align="center">
